@@ -1,0 +1,17 @@
+{
+  "uuid": "dc341629-a711-45d5-8f3f-a0b71fb28539",
+  "shortName": "glance",
+  "longName": "glance",
+  "companyName": "Sam Mercier Inc.",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
